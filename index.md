@@ -7,11 +7,16 @@ permalink: /
 
 ## Furnished house just 10 minutes from downtown Austin
 
+{% include image.html pos="right" url="/images/ayn.jpg" description="Nicky and Andrea" %}
+
 Hey, I'm Nicky and this is my wife, Andrea!
 
-We'll be out of Austin for just about all of August and September and we'd love if you made the most of our house here in South Austin in the mean-time.
+We'll be out of Austin from August 3rd until October 3rd and we'd love if you made the most of our house here in South Austin while we're away.
 
-Here's what you'll love about our place:
+<div class="clear"></div>
+
+
+### Here's what you'll love about our place:
 
 - It's just 10 minutes from downtown so you can enjoy the city without living the cramped lifestyle
 - 1,200 sq. ft., 2 bedrooms and 2 bathrooms with a bonus room (in addition to the living room). We just use one bedroom and the other spaces as offices.
