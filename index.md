@@ -18,11 +18,11 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
 <a name="photos"></a>
 <br><br>
 
-### Here's What's Waiting for You
+### Here's What's Waiting for You!
 
 <div class="img"><img src="/images/living_3.jpg"/>
     <span>
-        <b>The Living Room</b>: Cozy up for a little Netflix to unwind. We've been really impressed by the quality and immersiveness of our 60" Vizio TV. It connects to Netflix, Spotify, etc. and there's also a Chromecast connected.
+        <b>The Living Room</b>: Cozy up for a little Netflix to unwind. 60" TV with Cable. It can also stream from all your favorite services + a Chromecast connected.
     </span>
 </div>
 <div class="img"><img src="/images/living_2.jpg"/>
