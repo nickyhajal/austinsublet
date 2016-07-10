@@ -29,7 +29,7 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
     <span>This couch is so friggin' comfortable.</span>
 </div>
 <div class="img"><img src="/images/dining_1.jpg"/>
-    <span>Memory foam dining room chairs!</span>
+    <span>Enjoy a home-cooked meal (or just get Torchy's Tacos from across the street) on these memory-foam dining chairs!</span>
 </div>
 <div class="img"><img src="/images/kitchen_1.jpg"/>
     <span><b>The Kitchen: </b> This is a great little spot to have breakfast in the morning.</span>
@@ -84,7 +84,7 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
 #### The Productivity
 
 - Super-fast Internet (300 down/20 up from Time Warner but Google Fiber will probably be installed by the time you get here!)
-- Nice big desk in the main office for you to take-over
+- Plenty of desk space in the main office for you to take-over
 - Great sound-system to blast your music as you get to work
 
 #### The Comfort
