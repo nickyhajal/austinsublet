@@ -42,10 +42,10 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
 </span>
 </div>
 <div class="img"><img src="/images/bedroom_1.jpg"/>
-<span><b>The Bedroom:</b> There she is. The bed of your dreams.</span>
+<span><b>The Bedroom:</b> There she is. The bed of your dreams. Our Helix Sleep mattress is incredibly comfortable.</span>
 </div>
 <div class="img"><img src="/images/bedroom_2.jpg"/><span>
-    Tons of storage and closet space.
+    Lots of storage and closet space.
 </span>
 </div>
 <div class="img"><img src="/images/office_1.jpg"/>
