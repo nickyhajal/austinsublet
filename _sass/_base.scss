@@ -47,7 +47,27 @@ img {
     vertical-align: middle;
 }
 
+div.header {
+    background: #f7f5f2 none repeat scroll 0 0;
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.2);
+    left: 0;
+    padding: 13px 0;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
 
+.header a {
+    color: #96887f !important;
+    font-style: italic;
+    font-weight: bold;
+    margin-right: 50px;
+}
+.page-content {
+    padding: 56px 0 0;
+}
 
 /**
  * Figures
@@ -60,16 +80,38 @@ figcaption {
     font-size: $small-font-size;
 }
 
+div.img {
+    margin-bottom:20px
+}
+div.img {
+    background: #f4f3e9 none repeat scroll 0 0;
+    border-bottom: 2px solid #e1e0d6;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
 
+.img span {
+    padding: 14px 28px;
+    text-align: center;
+    width: 100%;
+    display:block;
+    font-size:13pt;
+    box-sizing: border-box;
+}
+div.img {
+    width: 100%;
+}
 
 /**
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+    margin-left: 30px;
+    width: 80%;
 }
 
 li {
+    margin-bottom: 5px;
     > ul,
     > ol {
          margin-bottom: 0;
@@ -85,7 +127,39 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
 }
 
-
+label {
+    display:block;
+}
+input, textarea {
+    font-family: "Lato", sans-serif;
+    padding:10px;
+    border: 1px solid #D0CDC5;
+    width: 260px;
+    font-size:14pt;
+    color: #524F4D;
+}
+input[type="submit"] {
+    cursor: pointer;
+    background: #69513F none repeat scroll 0 0;
+    border: 0 none;
+    color: #ffffff;
+    font-size: 16pt;
+    font-style: italic;
+    padding: 11px 0 10px;
+    width: 310px;
+}
+textarea {
+    font-family: "Lato", sans-serif;
+    height: 120px;
+    width: 400px;
+}
+.form-section {
+    margin-bottom: 20px;
+}
+form {
+    background: #F5F4F0 none repeat scroll 0 0;
+    padding: 40px;
+}
 
 /**
  * Links
@@ -156,12 +230,18 @@ pre {
  * Wrapper
  */
 .post-content {
+    background: #ffffff none repeat scroll 0 0;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -80px;
+    position: relative;
+    z-index: 19;
     max-width: -webkit-calc(#{$content-width});
     max-width:         calc(#{$content-width});
     margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    padding: 100px;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
