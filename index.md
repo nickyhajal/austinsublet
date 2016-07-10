@@ -16,37 +16,6 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
 <div class="clear"></div>
 
 
-<a name="features"></a>
-<br><br>
-
-### Here's what you'll love about our place:
-
-#### The House
-- 1,200 sq. ft., 2 bedrooms and 2 bathrooms with a bonus room (in addition to the living room). We just use one bedroom and the other spaces as offices.
-- The house is furnished, comfy and super-functional.
-- Driveway for you to park in if you have a car
-- Garage with some storage-space (our car will be inside)
-- Washer-dryer, dishwasher and everything else you need to live comfortably
-
-#### The Location
-- It's just 10 minutes from downtown so you can enjoy the city without living the cramped lifestyle
-- This is an amazing neighborhood, really close to great restaurants, parks, the supermarket, the gym and more (we'll have tons of recommendations for you).
-- **Bus stop across the street** that takes you right downtown in 10 minutes. It's like having your own personal shuttle (round-trip costs $2.50 and can be bought from the CapMetro app—it's so easy!)
-
-#### The Productivity
-
-- Super-fast Internet (300 down/20 up from Time Warner but Google Fiber will probably be installed by the time you get here!)
-- Nice big desk in the main office for you to take-over
-- Great sound-system to blast your music as you get to work
-
-#### The Comfort
-- Central A/C to fend off the Texas heat plus a whole-house fan if you just want to air out the place
-- An insanely comfy queen-size bed with a Helix Sleep Mattress and bamboo sheets so you'll get an amazing night's sleep
-- Skylights in the kitchen, living room and bathroom so you'll have nice natural light all day long
-- We have a nice big backyard that's great for enjoying the sunny Austin days, especially with friends (we put up strings of lights so you can enjoy the nights too!)
-- There's a grill outside so you can get grillin' and smokin' to your heart's content
-
-
 <a name="photos"></a>
 <br><br>
 
@@ -95,6 +64,38 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
     Less than 10 minutes from down-town + a bus just outside our house that goes downtown every 30 minutes.
 </span>
 </div>
+
+
+<a name="features"></a>
+<br><br>
+
+### Here's what you'll love about our place:
+
+#### The House
+- 1,200 sq. ft., 2 bedrooms and 2 bathrooms with a bonus room (in addition to the living room). We just use one bedroom and the other spaces as offices.
+- The house is furnished, comfy and super-functional.
+- Driveway for you to park in if you have a car
+- Garage with some storage-space (our car will be inside)
+- Washer-dryer, dishwasher and everything else you need to live comfortably
+
+#### The Location
+- It's just 10 minutes from downtown so you can enjoy the city without living the cramped lifestyle
+- This is an amazing neighborhood, really close to great restaurants, parks, the supermarket, the gym and more (we'll have tons of recommendations for you).
+- **Bus stop across the street** that takes you right downtown in 10 minutes. It's like having your own personal shuttle (round-trip costs $2.50 and can be bought from the CapMetro app—it's so easy!)
+
+#### The Productivity
+
+- Super-fast Internet (300 down/20 up from Time Warner but Google Fiber will probably be installed by the time you get here!)
+- Nice big desk in the main office for you to take-over
+- Great sound-system to blast your music as you get to work
+
+#### The Comfort
+- Central A/C to fend off the Texas heat plus a whole-house fan if you just want to air out the place
+- An insanely comfy queen-size bed with a Helix Sleep Mattress and bamboo sheets so you'll get an amazing night's sleep
+- Skylights in the kitchen, living room and bathroom so you'll have nice natural light all day long
+- We have a nice big backyard that's great for enjoying the sunny Austin days, especially with friends (we put up strings of lights so you can enjoy the nights too!)
+- There's a grill outside so you can get grillin' and smokin' to your heart's content
+
 
 <a name="terms"></a>
 <br><br>
