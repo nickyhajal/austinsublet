@@ -18,11 +18,11 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
 <a name="photos"></a>
 <br><br>
 
-### Take a Look for Yourself!
+### Here's What's Waiting for You
 
 <div class="img"><img src="/images/living_3.jpg"/>
     <span>
-        Cozy up for a little Netflix to unwind. We've been really impressed by the quality and immersiveness of our 60" Vizio TV. It connects to Netflix, Spotify, etc. and there's also a Chromecast connected.
+        <b>The Living Room</b>: Cozy up for a little Netflix to unwind. We've been really impressed by the quality and immersiveness of our 60" Vizio TV. It connects to Netflix, Spotify, etc. and there's also a Chromecast connected.
     </span>
 </div>
 <div class="img"><img src="/images/living_2.jpg"/>
@@ -32,7 +32,7 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
     <span>Memory foam dining room chairs!</span>
 </div>
 <div class="img"><img src="/images/kitchen_1.jpg"/>
-    <span>This is a great little spot to have breakfast in the morning.</span>
+    <span><b>The Kitchen: </b> This is a great little spot to have breakfast in the morning.</span>
 </div>
 <div class="img"><img src="/images/kitchen_2.jpg"/>
 <span>We have a place for all your kitchen basics which makes it easy to stay clean and organized.</span>
@@ -42,7 +42,7 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
 </span>
 </div>
 <div class="img"><img src="/images/bedroom_1.jpg"/>
-<span>There she is. The bed of your dreams.</span>
+<span><b>The Bedroom:</b> There she is. The bed of your dreams.</span>
 </div>
 <div class="img"><img src="/images/bedroom_2.jpg"/><span>
     Tons of storage and closet space.
@@ -50,7 +50,7 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
 </div>
 <div class="img"><img src="/images/office_1.jpg"/>
     <span>
-        Lots of room and desk space to get productive!
+        <b>The Office</b>: Lots of room and desk space to get productive!
     </span>
 </div>
 <div class="img"><img src="/images/office_2.jpg"/>
@@ -60,7 +60,7 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
 </div>
 <div class="img"><img src="/images/map.png"/>
 <span>
-    Less than 10 minutes from down-town + a bus just outside our house that goes downtown every 30 minutes.
+    <b>The Location: </b> Less than 10 minutes from down-town + a bus just outside our house that goes downtown every 30 minutes. Tons of great restaurants, bars and shops nearby.
 </span>
 </div>
 
