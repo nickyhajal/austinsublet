@@ -15,7 +15,6 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
 
 <div class="clear"></div>
 
-
 <a name="photos"></a>
 <br><br>
 
@@ -64,7 +63,6 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
     Less than 10 minutes from down-town + a bus just outside our house that goes downtown every 30 minutes.
 </span>
 </div>
-
 
 <a name="features"></a>
 <br><br>
