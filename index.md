@@ -50,12 +50,12 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
 </div>
 <div class="img"><img src="/images/office_1.jpg"/>
     <span>
-        So much desk space.
+        Lots of room and desk space to get productive!
     </span>
 </div>
 <div class="img"><img src="/images/office_2.jpg"/>
 <span>
-    The FLINTAN chair from IKEA offers great back support which you'll need blasting the jams for your pre-work dance session.
+    The FLINTAN chair from IKEA offers great back support which you'll need after blasting the jams for your pre-work dance session.
 </span>
 </div>
 <div class="img"><img src="/images/map.png"/>
