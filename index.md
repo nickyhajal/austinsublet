@@ -117,6 +117,9 @@ Interested? Just send us a message below or email *andreaynicky@gmail.com*.
 
 We'll respond in less than 24 hours.
 
+<div id="contact-success">
+    Great, your message was sent! We'll get back to you soon!
+</div>
 <form id="contact" action="#" method="post">
     <div class="form-section">
         <label>Your Full Name</label>

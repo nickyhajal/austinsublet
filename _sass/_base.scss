@@ -69,6 +69,15 @@ div.header {
     padding: 56px 0 0;
 }
 
+div#contact-success {
+    background: #e0e8d9 none repeat scroll 0 0;
+    font-size: 17pt;
+    font-style: italic;
+    font-weight: bold;
+    padding: 40px;
+    display: none;
+}
+
 /**
  * Figures
  */
@@ -84,8 +93,8 @@ div.img {
     margin-bottom:20px
 }
 div.img {
-    background: #f4f3e9 none repeat scroll 0 0;
-    border-bottom: 2px solid #e1e0d6;
+    background: #F4F4F0 none repeat scroll 0 0 none repeat scroll 0 0;
+    border-bottom: 2px solid #eeede2;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
     width: 100%;
 }
@@ -97,6 +106,7 @@ div.img {
     display:block;
     font-size:13pt;
     box-sizing: border-box;
+    line-height: 128%;
 }
 div.img {
     width: 100%;
