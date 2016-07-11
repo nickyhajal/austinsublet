@@ -50,7 +50,7 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
 </div>
 <div class="img"><img src="/images/office_1.jpg"/>
     <span>
-        <b>The Office</b>: Lots of room and desk space to get productive!
+        <b>The Office</b>: Plenty of room and desk space to get productive!
     </span>
 </div>
 <div class="img"><img src="/images/office_2.jpg"/>

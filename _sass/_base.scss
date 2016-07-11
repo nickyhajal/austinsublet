@@ -151,6 +151,9 @@ input, textarea {
     width: 260px;
     font-size:14pt;
     color: #524F4D;
+    @include media-query($on-palm) {
+        width: 100%;
+    }
 }
 input[type="submit"] {
     cursor: pointer;
@@ -166,6 +169,9 @@ textarea {
     font-family: "Lato", sans-serif;
     height: 120px;
     width: 400px;
+    @include media-query($on-palm) {
+        width: 100%;
+    }
 }
 .form-section {
     margin-bottom: 20px;
