@@ -1,6 +1,6 @@
 ---
 layout: page
-title: '2br/2ba House in South Austin <span>Available August &amp; September, 2016</span>'
+title: '2br/2ba House With Google Fiber in South Austin <span>Available August &amp; September, 2016</span>'
 image: /images/austin.jpg
 permalink: /
 ---
@@ -83,7 +83,7 @@ We'll be out of Austin from August 3rd until October 3rd and we'd love if you ma
 
 #### The Productivity
 
-- Super-fast Internet (300 down/20 up from Time Warner but Google Fiber will probably be installed by the time you get here!)
+- Super-fast Internet (1 gigabit up and down) via Google Fiber! 
 - Plenty of desk space in the main office for you to take-over
 - Great sound-system to blast your music as you get to work
 
